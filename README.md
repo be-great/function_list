@@ -1,7 +1,7 @@
-# Function List
-A collection of unique functions created from scratch. From basic arithmetic to advanced algorithms, our code gems await your exploration and mastery! 💻🚀🧙‍♂️
+# Function List 📋
+Explore our collection of unique functions created from scratch. From basic arithmetic to advanced algorithms, our code gems await your exploration and mastery! 💻🚀🧙‍♂️
 
-## Strings
+## Strings 🧵
 
 | Function  | Description  |
 |---|---|
