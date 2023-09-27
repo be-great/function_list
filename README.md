@@ -24,3 +24,4 @@ Explore our collection of unique functions created from scratch. From basic arit
 |  | 2. `accept` - allowed characters.  |
 | `strpbrk`  | Function that searches a string for any of a set of bytes. It finds the first occurrence of any character from a specified set and returns its address.  |
 | `strstr`  | Function that locates a substring. It returns the address of the found substring.  |
+Thank you for exploring our functions and happy coding! If you have any questions or need assistance, don't hesitate to reach out. 🚀🔍👩‍💻
